@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Antonio Eduardo
 
-- 🌱 Estou aprendendo Python
+- 🌱 Estou a procura da minha primeira oportunidade como Junior 
 - 📫 Como me contactar: tonyeg2020@gmail.com
 - ⚡ Um fato interessante sobre mim: Sou streamer na Twitch
 
