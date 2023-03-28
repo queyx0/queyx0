@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queyx0&show_icons=true&theme=chartreuse-dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queyx0&hide=jupyter%20notebook&layout=compact&langs_count=78&theme=chartreuse-dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"  align="center"><br>
   <img align="center" alt="queyx0-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="queyx0-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="queyx0-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
