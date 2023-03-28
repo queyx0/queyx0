@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/queyx0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queyx0&show_icons=true&theme=chartreuse-dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queyx0&hide=jupyter%20notebook,shell&layout=compact&langs_count=78&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queyx0&hide=jupyter%20notebook,shell,sass,java&layout=compact&langs_count=78&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="queyx0-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
