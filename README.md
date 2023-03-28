@@ -1,6 +1,11 @@
 <h1 align="center">Antonio Eduardo</h1>
 <h6 align="center">Full-Stack Developer</h6>
 
+<p align="center">
+<a href="[https://www.linkedin.com/in/maira-fidalgo](https://www.linkedin.com/in/antonio-eg-moreira/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tonyeg2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.link/ic5m59"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <div align="center">
   <a href="https://github.com/queyx0">
